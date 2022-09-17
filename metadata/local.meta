@@ -9,3 +9,10 @@ modtime = 1663346616.395336300
 [app/package/check_for_updates]
 version = 9.0.1
 modtime = 1663346616.413194900
+
+[views/games_data]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = thilak
+version = 9.0.1
+modtime = 1663415903.944599500
