@@ -16,3 +16,15 @@ export = system
 owner = thilak
 version = 9.0.1
 modtime = 1663416239.561954700
+
+[indexes/corona]
+owner = thilak
+version = 9.0.1
+modtime = 1663423731.969082400
+
+[views/coronavirus_summary]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = thilak
+version = 9.0.1
+modtime = 1663435405.864545300
