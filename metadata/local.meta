@@ -27,4 +27,9 @@ access = read : [ * ], write : [ admin ]
 export = system
 owner = thilak
 version = 9.0.1
-modtime = 1663435405.864545300
+modtime = 1663488488.329585200
+
+[indexes/dailycorona]
+owner = thilak
+version = 9.0.1
+modtime = 1663485737.225100500
